@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data>
+	<title cssClass="inner_desc"><![CDATA[Unimed]]></title>
+	<copy cssClass="inner_desc"><![CDATA[Unimed is a health care insurance brand. As a Flash Developer, I created a fun algorithm to make a neural gallery and the entire website.]]></copy>
+	<agency cssClass="inner_desc"><![CDATA[Agency: JWT]]></agency>
+	<client cssClass="inner_desc"><![CDATA[Client: Unimed]]></client>
+	<link cssClass="inner_desc"><![CDATA[]]></link>
+	<seeMore cssClass="inner_desc"><![CDATA[To see more, you can use the keyboard arrows.]]></seeMore>
+	
+	
+	<register cssClass="image_menu" type="photo" url="data/img/work/image/big/unimed/1.jpg"><![CDATA[1]]></register>
+	<register cssClass="image_menu" type="photo" url="data/img/work/image/big/unimed/2.jpg"><![CDATA[2]]></register>
+	<register cssClass="image_menu" type="photo" url="data/img/work/image/big/unimed/3.jpg"><![CDATA[3]]></register>
+	<register cssClass="image_menu" type="photo" url="data/img/work/image/big/unimed/4.jpg"><![CDATA[4]]></register>
+	<register cssClass="image_menu" type="photo" url="data/img/work/image/big/unimed/5.jpg"><![CDATA[5]]></register>
+</data>

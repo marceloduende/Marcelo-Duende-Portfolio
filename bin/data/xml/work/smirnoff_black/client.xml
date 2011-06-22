@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data>
+	<title cssClass="inner_title"><![CDATA[Smirnoff Black]]></title>
+	<copy cssClass="inner_desc"><![CDATA[Smirnoff Black has created a huge campaign to send a lucky guy to Germany to see the Russian New Year's Eve. It is a little weird, but the website does explain all this concept. In this role I worked with video integrating user + web experience. I have also managed all the flash development.]]></copy>
+	<agency cssClass="inner_desc"><![CDATA[Agency: Chleba/Wunderman]]></agency>
+	<client cssClass="inner_desc"><![CDATA[Client: Smirnoff]]></client>
+	<link cssClass="inner_desc"><![CDATA[ ]]></link>
+	<seeMore cssClass="inner_desc"><![CDATA[To see more, you can use the keyboard arrows.]]></seeMore>
+	
+	
+	<register cssClass="image_menu" type="photo" url="data/img/work/image/big/smirnoff/1.jpg"><![CDATA[1]]></register>
+	<register cssClass="image_menu" type="photo" url="data/img/work/image/big/smirnoff/2.jpg"><![CDATA[2]]></register>
+	<register cssClass="image_menu" type="photo" url="data/img/work/image/big/smirnoff/3.jpg"><![CDATA[3]]></register>
+	<register cssClass="image_menu" type="photo" url="data/img/work/image/big/smirnoff/4.jpg"><![CDATA[4]]></register>
+	<register cssClass="image_menu" type="photo" url="data/img/work/image/big/smirnoff/5.jpg"><![CDATA[5]]></register>
+	<register cssClass="image_menu" type="photo" url="data/img/work/image/big/smirnoff/6.jpg"><![CDATA[6]]></register>
+	<register cssClass="image_menu" type="photo" url="data/img/work/image/big/smirnoff/7.jpg"><![CDATA[7]]></register>
+	<register cssClass="image_menu" type="photo" url="data/img/work/image/big/smirnoff/8.jpg"><![CDATA[8]]></register>
+	<register cssClass="image_menu" type="photo" url="data/img/work/image/big/smirnoff/9.jpg"><![CDATA[9]]></register>
+    <register cssClass="image_menu" type="photo" url="data/img/work/image/big/smirnoff/10.jpg"><![CDATA[10]]></register>
+</data>

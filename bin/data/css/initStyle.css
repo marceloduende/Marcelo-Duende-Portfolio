@@ -1,0 +1,17 @@
+/*
+This is the css file to control the fonts of the Flash application.
+As you know, the Flash doesn't suport all the css styles, althought it supports a bunch of tags as:
+
+color;
+font-family; - you can also use flash embeded font names here.
+font-size;
+letter-spacing;
+line-height;
+text-decoration;
+*/
+
+.preloader{
+	font-family:_Avenir;
+	font-size: 30px;
+	color:#FF0000;
+}

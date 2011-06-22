@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data>
+	<title cssClass="inner_title"><![CDATA[Lacta - Easter Egg]]></title>
+	<copy cssClass="inner_desc"><![CDATA[I was the Lead Flash Developer of this website that was created for the Easter. This number one chocolate brand of Brazil had more than 20 different kinds of eggs. At this role I was the lead developer]]></copy>
+	<agency cssClass="inner_desc"><![CDATA[Agency: Midiaweb]]></agency>
+	<client cssClass="inner_desc"><![CDATA[Client: Kraft Foods]]></client>
+	<link cssClass="inner_desc"><![CDATA[]]></link>
+	<seeMore cssClass="inner_desc"><![CDATA[To see more, you can use the keyboard arrows.]]></seeMore>
+	
+	
+	<register cssClass="image_menu" type="photo" url="data/img/work/image/big/lacta/1.jpg"><![CDATA[1]]></register>
+	<register cssClass="image_menu" type="photo" url="data/img/work/image/big/lacta/2.jpg"><![CDATA[2]]></register>
+	<register cssClass="image_menu" type="photo" url="data/img/work/image/big/lacta/3.jpg"><![CDATA[3]]></register>
+	<register cssClass="image_menu" type="photo" url="data/img/work/image/big/lacta/4.jpg"><![CDATA[4]]></register>
+	<register cssClass="image_menu" type="photo" url="data/img/work/image/big/lacta/5.jpg"><![CDATA[5]]></register>
+</data>

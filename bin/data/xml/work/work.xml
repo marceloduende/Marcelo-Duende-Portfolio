@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data>
+    <register page_id="museum_of_power" href="work/museum_of_power">
+		<title cssClass="thumb_work_title"><![CDATA[Museum of Power]]></title>
+		<client cssClass="thumb_work_body"><![CDATA[Client: Puma]]></client>
+		<agency cssClass="thumb_work_body"><![CDATA[Agency: Syrup]]></agency>
+		<link cssClass="thumb_link"><![CDATA[+ See more]]></link>
+		<colored><![CDATA[data/img/work/image/thumbnail/colored/1.jpg]]></colored>
+		<sephia><![CDATA[data/img/work/image/thumbnail/sephia/1.jpg]]></sephia>
+		<prize>
+			<register x="151" y="-5"><![CDATA[data/img/work/prizes_icon/thefwa.png]]></register>
+			<register x="168" y="180"><![CDATA[data/img/work/prizes_icon/cannes.png]]></register>
+			<register x="209" y="180"><![CDATA[data/img/work/prizes_icon/oneshow.png]]></register>
+		</prize>
+	</register>
+    <register page_id="can" href="work/can">
+		<title cssClass="thumb_work_title"><![CDATA[Cup of Nations]]></title>
+		<client cssClass="thumb_work_body"><![CDATA[Client: Puma]]></client>
+		<agency cssClass="thumb_work_body"><![CDATA[Agency: Syrup]]></agency>
+		<link cssClass="thumb_link"><![CDATA[+ See more]]></link>
+		<colored><![CDATA[data/img/work/image/thumbnail/colored/2.jpg]]></colored>
+		<sephia><![CDATA[data/img/work/image/thumbnail/sephia/2.jpg]]></sephia>
+		<prize></prize>
+	</register>
+	<register page_id="smirnoff_black" href="work/smirnoff_black">
+		<title cssClass="thumb_work_title"><![CDATA[Smirnoff Black]]></title>
+		<client cssClass="thumb_work_body"><![CDATA[Client: Smirnoff]]></client>
+		<agency cssClass="thumb_work_body"><![CDATA[Agency: Wundermann]]></agency>
+		<link cssClass="thumb_link"><![CDATA[+ See more]]></link>
+		<colored><![CDATA[data/img/work/image/thumbnail/colored/3.jpg]]></colored>
+		<sephia><![CDATA[data/img/work/image/thumbnail/sephia/3.jpg]]></sephia>
+		<prize></prize>
+	</register>
+    <register page_id="harajuku" href="work/harajuku">
+		<title cssClass="thumb_work_title"><![CDATA[Harajuku Lovers]]></title>
+		<client cssClass="thumb_work_body"><![CDATA[Client: Harajuku]]></client>
+		<agency cssClass="thumb_work_body"><![CDATA[Agency: Syrup]]></agency>
+		<link cssClass="thumb_link"><![CDATA[+ See more]]></link>
+		<colored><![CDATA[data/img/work/image/thumbnail/colored/17.jpg]]></colored>
+		<sephia><![CDATA[data/img/work/image/thumbnail/sephia/17.jpg]]></sephia>
+		<prize></prize>
+	</register>
+	<register page_id="hsbc" href="work/hsbc">
+		<title cssClass="thumb_work_title"><![CDATA[HSBC - OQIPV]]></title>
+		<client cssClass="thumb_work_body"><![CDATA[Client: Hsbc]]></client>
+		<agency cssClass="thumb_work_body"><![CDATA[Agency: JWT]]></agency>
+		<link cssClass="thumb_link"><![CDATA[+ See more]]></link>
+		<colored><![CDATA[data/img/work/image/thumbnail/colored/4.jpg]]></colored>
+		<sephia><![CDATA[data/img/work/image/thumbnail/sephia/4.jpg]]></sephia>
+		<prize></prize>
+	</register>
+	<register page_id="qual_sua_balada" href="work/qual_sua_balada">
+		<title cssClass="thumb_work_title"><![CDATA[Qual sua balada]]></title>
+		<client cssClass="thumb_work_body"><![CDATA[Client: Puma]]></client>
+		<agency cssClass="thumb_work_body"><![CDATA[Agency: Chleba]]></agency>
+		<link cssClass="thumb_link"><![CDATA[+ See more]]></link>
+		<colored><![CDATA[data/img/work/image/thumbnail/colored/5.jpg]]></colored>
+		<sephia><![CDATA[data/img/work/image/thumbnail/sephia/5.jpg]]></sephia>
+		<prize></prize>
+	</register>
+	<register page_id="red_n_white" href="work/red_n_white">
+		<title cssClass="thumb_work_title"><![CDATA[Red and white]]></title>
+		<client cssClass="thumb_work_body"><![CDATA[Client: Puma]]></client>
+		<agency cssClass="thumb_work_body"><![CDATA[Agency: Chleba]]></agency>
+		<link cssClass="thumb_link"><![CDATA[+ See more]]></link>
+		<colored><![CDATA[data/img/work/image/thumbnail/colored/6.jpg]]></colored>
+		<sephia><![CDATA[data/img/work/image/thumbnail/sephia/6.jpg]]></sephia>
+		<prize></prize>
+	</register>
+	<register page_id="create" href="work/create">
+		<title cssClass="thumb_work_title"><![CDATA[Create]]></title>
+		<client cssClass="thumb_work_body"><![CDATA[Client: Puma]]></client>
+		<agency cssClass="thumb_work_body"><![CDATA[Agency: Chelba]]></agency>
+		<link cssClass="thumb_link"><![CDATA[+ See more]]></link>
+		<colored><![CDATA[data/img/work/image/thumbnail/colored/7.jpg]]></colored>
+		<sephia><![CDATA[data/img/work/image/thumbnail/sephia/7.jpg]]></sephia>
+		<prize></prize>
+	</register>
+	<register page_id="cream" href="work/cream">
+		<title cssClass="thumb_work_title"><![CDATA[Cream +]]></title>
+		<client cssClass="thumb_work_body"><![CDATA[Client: Cream]]></client>
+		<agency cssClass="thumb_work_body"><![CDATA[Agency: M9S]]></agency>
+		<link cssClass="thumb_link"><![CDATA[+ See more]]></link>
+		<colored><![CDATA[data/img/work/image/thumbnail/colored/8.jpg]]></colored>
+		<sephia><![CDATA[data/img/work/image/thumbnail/sephia/8.jpg]]></sephia>
+		<prize></prize>
+	</register>
+	<register page_id="diogo_portugal" href="work/diogo_portugal">
+		<title cssClass="thumb_work_title"><![CDATA[Diogo Portugal]]></title>
+		<client cssClass="thumb_work_body"><![CDATA[Client: Diogo Portugal]]></client>
+		<agency cssClass="thumb_work_body"><![CDATA[Agency: Tif]]></agency>
+		<link cssClass="thumb_link"><![CDATA[+ See more]]></link>
+		<colored><![CDATA[data/img/work/image/thumbnail/colored/9.jpg]]></colored>
+		<sephia><![CDATA[data/img/work/image/thumbnail/sephia/9.jpg]]></sephia>
+		<prize></prize>
+	</register>
+	<register page_id="lacta" href="work/lacta">
+		<title cssClass="thumb_work_title"><![CDATA[Easter Lacta]]></title>
+		<client cssClass="thumb_work_body"><![CDATA[Client: Lacta]]></client>
+		<agency cssClass="thumb_work_body"><![CDATA[Agency: Midiaweb]]></agency>
+		<link cssClass="thumb_link"><![CDATA[+ See more]]></link>
+		<colored><![CDATA[data/img/work/image/thumbnail/colored/10.jpg]]></colored>
+		<sephia><![CDATA[data/img/work/image/thumbnail/sephia/10.jpg]]></sephia>
+		<prize></prize>
+	</register>
+	<register page_id="mackenzie" href="work/mackenzie">
+		<title cssClass="thumb_work_title"><![CDATA[Desafio Mackenzie]]></title>
+		<client cssClass="thumb_work_body"><![CDATA[Client: Mackenzie]]></client>
+		<agency cssClass="thumb_work_body"><![CDATA[Agency: Chleba]]></agency>
+		<link cssClass="thumb_link"><![CDATA[+ See more]]></link>
+		<colored><![CDATA[data/img/work/image/thumbnail/colored/11.jpg]]></colored>
+		<sephia><![CDATA[data/img/work/image/thumbnail/sephia/11.jpg]]></sephia>
+		<prize></prize>
+	</register>
+	<register page_id="unimed" href="work/unimed">
+		<title cssClass="thumb_work_title"><![CDATA[Dr. Rached]]></title>
+		<client cssClass="thumb_work_body"><![CDATA[Client: Unimed]]></client>
+		<agency cssClass="thumb_work_body"><![CDATA[Agency: JWT]]></agency>
+		<link cssClass="thumb_link"><![CDATA[+ See more]]></link>
+		<colored><![CDATA[data/img/work/image/thumbnail/colored/12.jpg]]></colored>
+		<sephia><![CDATA[data/img/work/image/thumbnail/sephia/12.jpg]]></sephia>
+		<prize></prize>
+	</register>
+	<register page_id="center_norte" href="work/center_norte">
+		<title cssClass="thumb_work_title"><![CDATA[Natal Center Norte]]></title>
+		<client cssClass="thumb_work_body"><![CDATA[Client: Center Norte]]></client>
+		<agency cssClass="thumb_work_body"><![CDATA[Agency: M9S]]></agency>
+		<link cssClass="thumb_link"><![CDATA[+ See more]]></link>
+		<colored><![CDATA[data/img/work/image/thumbnail/colored/13.jpg]]></colored>
+		<sephia><![CDATA[data/img/work/image/thumbnail/sephia/13.jpg]]></sephia>
+		<prize></prize>
+	</register>
+	<register page_id="confidence" href="work/confidence">
+		<title cssClass="thumb_work_title"><![CDATA[Make your bill]]></title>
+		<client cssClass="thumb_work_body"><![CDATA[Client: Confidence]]></client>
+		<agency cssClass="thumb_work_body"><![CDATA[Agency: Tif]]></agency>
+		<link cssClass="thumb_link"><![CDATA[+ See more]]></link>
+		<colored><![CDATA[data/img/work/image/thumbnail/colored/14.jpg]]></colored>
+		<sephia><![CDATA[data/img/work/image/thumbnail/sephia/14.jpg]]></sephia>
+		<prize></prize>
+	</register>
+	<register page_id="bottega_veneta" href="work/bottega_veneta">
+		<title cssClass="thumb_work_title"><![CDATA[Bottega Veneta]]></title>
+		<client cssClass="thumb_work_body"><![CDATA[Client: Bottega Veneta]]></client>
+		<agency cssClass="thumb_work_body"><![CDATA[Agency: Syrup]]></agency>
+		<link cssClass="thumb_link"><![CDATA[+ See more]]></link>
+		<colored><![CDATA[data/img/work/image/thumbnail/colored/15.jpg]]></colored>
+		<sephia><![CDATA[data/img/work/image/thumbnail/sephia/15.jpg]]></sephia>
+		<prize></prize>
+	</register>
+	<register page_id="marc_jacobs_bang" href="work/marc_jacobs_bang">
+		<title cssClass="thumb_work_title"><![CDATA[Marc Jacobs Bang]]></title>
+		<client cssClass="thumb_work_body"><![CDATA[Client: Marc Jacobs]]></client>
+		<agency cssClass="thumb_work_body"><![CDATA[Agency: Syrup]]></agency>
+		<link cssClass="thumb_link"><![CDATA[+ See more]]></link>
+		<colored><![CDATA[data/img/work/image/thumbnail/colored/16.jpg]]></colored>
+		<sephia><![CDATA[data/img/work/image/thumbnail/sephia/16.jpg]]></sephia>
+		<prize></prize>
+	</register>
+	
+</data>

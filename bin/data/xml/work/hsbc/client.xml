@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data>
+	<title cssClass="inner_title"><![CDATA[HSBC]]></title>
+	<copy cssClass="inner_desc"><![CDATA[This worldwide bank wanted to create a quiz with many examples of important things about life. After completing the quiz, the best option of bank account was presented to the client.  Besides having been the Lead Flash Developer, I also gained a great experience in managing projects. 
+	
+Awards: Colunistas - Website of the year - Gold.]]></copy>
+	<agency cssClass="inner_desc"><![CDATA[Agency: JWT]]></agency>
+	<client cssClass="inner_desc"><![CDATA[Client: HSBC]]></client>
+	<link cssClass="inner_desc"><![CDATA[]]></link>
+	<seeMore cssClass="inner_desc"><![CDATA[To see more, you can use the keyboard arrows.]]></seeMore>
+	
+	
+	<register cssClass="image_menu" type="photo" url="data/img/work/image/big/hsbc/1.jpg"><![CDATA[1]]></register>
+	<register cssClass="image_menu" type="photo" url="data/img/work/image/big/hsbc/2.jpg"><![CDATA[2]]></register>
+	<register cssClass="image_menu" type="photo" url="data/img/work/image/big/hsbc/3.jpg"><![CDATA[3]]></register>
+	<register cssClass="image_menu" type="photo" url="data/img/work/image/big/hsbc/4.jpg"><![CDATA[4]]></register>
+	<register cssClass="image_menu" type="photo" url="data/img/work/image/big/hsbc/5.jpg"><![CDATA[5]]></register>
+	<register cssClass="image_menu" type="photo" url="data/img/work/image/big/hsbc/6.jpg"><![CDATA[6]]></register>
+</data>

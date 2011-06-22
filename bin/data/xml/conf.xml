@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data>
+	<!-- global website sections -->
+    <sections>
+        <section name="Home" packagePath="com.sections" xmlURL="data/xml/home/home.xml">
+            <menu cssClass="menu_style"><![CDATA[Home]]></menu>
+            <body cssClass="menu_style"><![CDATA[Some text here]]></body>
+        </section>
+        <section name="About" packagePath="com.sections" xmlURL="data/xml/about/about.xml">
+            <menu cssClass="menu_style"><![CDATA[About]]></menu>
+            <body cssClass="menu_style"><![CDATA[Some text here]]></body>
+        </section>
+        <section name="Work" packagePath="com.sections" xmlURL="data/xml/work/work.xml">
+            <menu cssClass="menu_style"><![CDATA[Work]]></menu>
+            <body cssClass="menu_style"><![CDATA[Some text here]]></body>
+        </section>
+       <!-- <section name="Photo" packagePath="com.sections" xmlURL="data/xml/photo/photo.xml">
+            <menu cssClass="menu_style"><![CDATA[Photo]]></menu>
+            <body cssClass="menu_style"><![CDATA[Some text here]]></body>
+        </section>-->
+        <section name="Contact" packagePath="com.sections" xmlURL="data/xml/contact/contact.xml">
+            <menu cssClass="menu_style"><![CDATA[Contact]]></menu>
+            <body cssClass="menu_style"><![CDATA[Some text here]]></body>
+        </section>
+        <section name="ErrorPage" packagePath="com.sections" xmlURL="data/xml/error/error.xml">
+            <menu cssClass="error_title"><![CDATA[Error!]]></menu>
+            <body cssClass="error_body_page"><![CDATA[I'm sorry but this page requested is unavailable or waiting for design approval!]]></body>
+        </section>
+    </sections>
+    
+	<!-- init assets -->
+	<initAssets>
+		<swf url="assets/initAssets/initAssets.swf" />
+        <swf url="Main.swf" />
+	</initAssets>
+	
+	<!-- global assets -->
+	<assets>
+		<font url="assets/fonts.swf"    />
+		<css  url="data/css/pageStyle.css" />
+		<swf  url="assets/assets.swf"   />
+	</assets>
+    
+    <!-- bottom copy -->
+    <bottomCopy copy="This content is just for tasting." cssClass="bottom_copy"/>
+    
+    <!-- bottom links -->
+    <bottomLinks>
+        <link name="Twitter -"  link="http://twitter.com/marceloduende"           cssClass="bottom_menu"/>
+        <link name="Facebook -" link="http://facebook.com/marceloduende"          cssClass="bottom_menu"/>
+        <link name="Flickr -"   link="http://flickr.com/photos/marceloduende"     cssClass="bottom_menu"/>
+        <link name="Vimeo -"    link="http://vimeo.com/user3481867/videos"        cssClass="bottom_menu"/>
+        <link name="LinkedIn"   link="http://www.linkedin.com/in/marceloduende"   cssClass="bottom_menu"/>
+    </bottomLinks>
+    
+    <!-- global data -->
+    <globalXMLData><![CDATA[data/xml/]]></globalXMLData>
+    <globalXMLWorkData><![CDATA[data/xml/work/]]></globalXMLWorkData>
+    
+    <!-- asset names -->
+    <assetNames>
+        <register name="logo_md" />
+        <register name="shadow" />
+        <register name="close" />
+        <register name="play_btn" />
+        <register name="pause_btn" />
+        <register name="fullscreen" />
+        <register name="fb" />
+        <register name="twitter" />
+    </assetNames>
+         
+</data>

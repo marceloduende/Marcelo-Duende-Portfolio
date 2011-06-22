@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data>
+	<title cssClass="inner_title"><![CDATA[Puma - I'm Going ]]></title>
+	<copy cssClass="inner_desc"><![CDATA[A website integrated with server side data. This website allowed all users to create their own party in these small blocks. In addition, they could create an image gallery with the crazy photos of the party. I was the Lead Flash Developer and I managed the .NET guys, too.]]></copy>
+	<agency cssClass="inner_desc"><![CDATA[Agency: Chleba]]></agency>
+	<client cssClass="inner_desc"><![CDATA[Client: Puma]]></client>
+	<link cssClass="inner_desc"><![CDATA[]]></link>
+	<seeMore cssClass="inner_desc"><![CDATA[To see more, you can use the keyboard arrows.]]></seeMore>
+	
+	
+	<register cssClass="image_menu" type="photo" url="data/img/work/image/big/puma/im_going/1.jpg"><![CDATA[1]]></register>
+	<register cssClass="image_menu" type="photo" url="data/img/work/image/big/puma/im_going/2.jpg"><![CDATA[2]]></register>
+	<register cssClass="image_menu" type="photo" url="data/img/work/image/big/puma/im_going/3.jpg"><![CDATA[3]]></register>
+	<register cssClass="image_menu" type="photo" url="data/img/work/image/big/puma/im_going/4.jpg"><![CDATA[4]]></register>
+	<register cssClass="image_menu" type="photo" url="data/img/work/image/big/puma/im_going/5.jpg"><![CDATA[5]]></register>
+	<register cssClass="image_menu" type="photo" url="data/img/work/image/big/puma/im_going/6.jpg"><![CDATA[6]]></register>
+	<register cssClass="image_menu" type="photo" url="data/img/work/image/big/puma/im_going/7.jpg"><![CDATA[7]]></register>
+</data>

@@ -1,0 +1,449 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data>
+     <!-- Bottega Veneta -->
+	<register pageTitle="bottegaveneta">
+		<title>Bottega Veneta</title>
+		<description>This is no ordinary show. It is a public display of what might potentially happen when you have a bold, true, occasionally reckless - yet always pure - love for the game.Welcome to the exhibition of Power.
+
+In this role me and Alfred Kang were worked our asses to delivery in time. It was about one week, we developed bold and serious algorithms fast. Went a pleasure to worked on.
+
+Thanks Puma, thanks Syrup</description>
+		<agency>Agency: Syrup New York</agency>
+		<client>Client: Puma Football</client>
+		<launch><a href="http://www.pumafootball.com/museum" targe="_blank">Launch: www.pumafootball.com/museum</a></launch>
+		<images>
+			<thumbnails>
+				<sephia>
+					<thumbnail>assets/work/image/thumbnail/sephia/15.jpg</thumbnail>
+				</sephia>
+				<colored>
+					<thumbnail>assets/work/image/thumbnail/colored/15.jpg</thumbnail>
+				</colored>
+			</thumbnails>
+			<big>
+				<colored>assets/image/work/image/big/marcjacobs/museum/1.jpg</colored>
+			</big>
+			<reel></reel>
+			<makingof></makingof>
+		</images>
+	</register>
+
+
+
+    <!-- Marc jacobs bang -->
+	<register pageTitle="marcjacobs-bang">
+		<title>Marc Jabos Bang</title>
+		<description>This is no ordinary show. It is a public display of what might potentially happen when you have a bold, true, occasionally reckless - yet always pure - love for the game.Welcome to the exhibition of Power.
+
+In this role me and Alfred Kang were worked our asses to delivery in time. It was about one week, we developed bold and serious algorithms fast. Went a pleasure to worked on.
+
+Thanks Puma, thanks Syrup</description>
+		<agency>Agency: Syrup New York</agency>
+		<client>Client: Puma Football</client>
+		<launch><a href="http://www.pumafootball.com/museum" targe="_blank">Launch: www.pumafootball.com/museum</a></launch>
+		<images>
+			<thumbnails>
+				<sephia>
+					<thumbnail>assets/image/thumbnail/sephia/15.jpg</thumbnail>
+				</sephia>
+				<colored>
+					<thumbnail>assets/image/thumbnail/colored/15.jpg</thumbnail>
+				</colored>
+			</thumbnails>
+			<big>
+				<colored>assets/image/work/image/big/marcjacobs/museum/1.jpg</colored>
+			</big>
+			<reel></reel>
+			<makingof></makingof>
+		</images>
+	</register>
+
+
+
+	<!-- Puma Museum -->
+	<register pageTitle="puma-museumofpower">
+		<title>Museum of Power</title>
+		<description>This is no ordinary show. It is a public display of what might potentially happen when you have a bold, true, occasionally reckless - yet always pure - love for the game.Welcome to the exhibition of Power.
+
+In this role me and Alfred Kang were worked our asses to delivery in time. It was about one week, we developed bold and serious algorithms fast. Went a pleasure to worked on.
+
+Thanks Puma, thanks Syrup</description>
+		<agency>Agency: Syrup New York</agency>
+		<client>Client: Puma Football</client>
+		<launch><a href="http://www.pumafootball.com/museum" targe="_blank">Launch: www.pumafootball.com/museum</a></launch>
+		<images>
+			<thumbnails>
+				<sephia>
+					<thumbnail>assets/image/thumbnail/sephia/1.jpg</thumbnail>
+				</sephia>
+				<colored>
+					<thumbnail>assets/image/thumbnail/colored/1.jpg</thumbnail>
+				</colored>
+			</thumbnails>
+			<big>
+				<colored>assets/image/big/puma/museum/1.jpg</colored>
+			</big>
+			<reel></reel>
+			<makingof></makingof>
+		</images>
+	</register>
+    
+    
+    
+    
+    
+    
+    
+    
+	<!-- Puma African cup of nations -->
+	<register pageTitle="puma-cupofnations">
+		<title>African Cup of Nations</title>
+		<description>Ola fellow football aficionado - welcome to Angola - heart of african football during the cup, the four tournament cities are like a big buffet of joy and football to enjoy, consume and explore - This is for you. 
+		
+This role was my first work to New York and definitely was a proof what I'm capable to do in short time, it does took my xmas, new year eve and some more days. Whatever, the final results was awesome</description>
+		<agency>Agency: Syrup New York</agency>
+		<client>Client: Puma Football</client>
+		<launch><a href="http://www.pumafootball.com/can" targe="_blank">Launch: www.pumafootball.com/can</a></launch>
+		<images>
+			<thumbnails>
+				<sephia>
+					<thumbnail>assets/image/thumbnail/sephia/2.jpg</thumbnail>
+				</sephia>
+				<colored>
+					<thumbnail>assets/image/thumbnail/colored/2.jpg</thumbnail>
+				</colored>
+			</thumbnails>
+			<big>
+				<colored>assets/image/big/puma/can/1.jpg</colored>
+			</big>
+			<reel></reel>
+			<makingof></makingof>
+		</images>
+	</register>
+    
+    
+    
+    
+    
+	<!-- Smirnoff Black -->
+	<register pageTitle="smirnoffblack">
+		<title>Smirnoff Black</title>
+		<description>Smirnoff is a vodka brand created by Piotr Arsenieyevich Smirnov. Currently owned by conglomerate Diageo. Smirnoff, has the name of "Смирновская Водка", translated it means Smirnovskaya vodka.
+		
+I developed this project long time ago and until nowadays it represent much than past for me. It took me to another level of programation, flash and commitment in work.</description>
+		<agency>Agency: Chleba + Wunderman</agency>
+		<client>Client: Smirnoff Black</client>
+		<launch><a href="http://www.smblack.com.br" targe="_blank">Launch: www.smblack.com.br</a></launch>
+		<images>
+			<thumbnails>
+				<sephia>
+					<thumbnail>assets/image/thumbnail/sephia/3.jpg</thumbnail>
+				</sephia>
+				<colored>
+					<thumbnail>assets/image/thumbnail/colored/3.jpg</thumbnail>
+				</colored>
+			</thumbnails>
+			<big>
+				<colored>assets/image/big/smirnoff/smblack/1.jpg</colored>
+			</big>
+			<reel></reel>
+			<makingof></makingof>
+		</images>
+	</register>
+    
+    
+    
+    
+	<!-- HSBC -->
+	<register pageTitle="hsbc-oqueimportaparavoce">
+		<title>O que importa para voce</title>
+		<description>Developed to JWT - WPP Group, this website had more than 2 million unique accesses. The  “Importometro” is a tool that the user can choose alternatives to get their best service offered by HSBC.
+		
+I worked on this project as a Lead Flash Developer, programing and managing a team.
+This project won site of the year on Colunistas Awards.</description>
+		<agency>Agency: JWT</agency>
+		<client>Client: HSBC</client>
+		<launch></launch>
+		<images>
+			<thumbnails>
+				<sephia>
+					<thumbnail>assets/image/thumbnail/sephia/4.jpg</thumbnail>
+				</sephia>
+				<colored>
+					<thumbnail>assets/image/thumbnail/colored/4.jpg</thumbnail>
+				</colored>
+			</thumbnails>
+			<big>
+				<colored>assets/image/big/hsbc/oqipv/1.jpg</colored>
+			</big>
+			<reel></reel>
+			<makingof></makingof>
+		</images>
+	</register>
+    
+    
+    
+	<!-- Puma -->
+	<register pageTitle="puma-imgoing">
+		<title>I'm going</title>
+		<description>Developed to Chleba, this site has a mission to improve the Puma I’m going (perfum) image inside of brazilian market.
+Puma I’m going reached a target audience, teenagers and young people, that were incited to buy. I developed all content bellow, including some design things.</description>
+		<agency>Agency: Chleba</agency>
+		<client>Client: Puma</client>
+		<launch></launch>
+		<images>
+			<thumbnails>
+				<sephia>
+					<thumbnail>assets/image/thumbnail/sephia/5.jpg</thumbnail>
+				</sephia>
+				<colored>
+					<thumbnail>assets/image/thumbnail/colored/5.jpg</thumbnail>
+				</colored>
+			</thumbnails>
+			<big>
+				<colored>assets/image/big/puma/imgoing/1.jpg</colored>
+			</big>
+			<reel></reel>
+			<makingof></makingof>
+		</images>
+	</register>
+    
+    
+    
+	<!-- Puma -->
+	<register pageTitle="puma-redandwhite">
+		<title>Red-White</title>
+		<description>Developed to Chleba, this site have a mission to improve the Puma Create  (perfum) image inside of brazilian market.
+Puma Red-White reached a target audience, adult people, to incite to buy.</description>
+		<agency>Agency: Chleba</agency>
+		<client>Client: Puma</client>
+		<launch></launch>
+		<images>
+			<thumbnails>
+				<sephia>
+					<thumbnail>assets/image/thumbnail/sephia/6.jpg</thumbnail>
+				</sephia>
+				<colored>
+					<thumbnail>assets/image/thumbnail/colored/6.jpg</thumbnail>
+				</colored>
+			</thumbnails>
+			<big>
+				<colored>assets/image/big/puma/redwhite/1.jpg</colored>
+			</big>
+			<reel></reel>
+			<makingof></makingof>
+		</images>
+	</register>
+    
+    
+    
+    
+	<!-- Puma -->
+	<register  pageTitle="puma-create">
+		<title>Create</title>
+		<description>Developed to Chleba, this site have a mission to improve the Puma Create  (perfum) image inside of brazilian market.
+Puma Create reached a target audience, adult people, to incite to buy.</description>
+		<agency>Agency: Chleba</agency>
+		<client>Client: Puma</client>
+		<launch></launch>
+		<images>
+			<thumbnails>
+				<sephia>
+					<thumbnail>assets/image/thumbnail/sephia/7.jpg</thumbnail>
+				</sephia>
+				<colored>
+					<thumbnail>assets/image/thumbnail/colored/7.jpg</thumbnail>
+				</colored>
+			</thumbnails>
+			<big>
+				<colored>assets/image/big/puma/create/1.jpg</colored>
+			</big>
+			<reel></reel>
+			<makingof></makingof>
+		</images>
+	</register>
+    
+    
+    
+	<!-- Cream -->
+	<register pageTitle="cream">
+		<title>Cream +</title>
+		<description>Cream is a recruitment group based in London. In this site you can put your photo on the video site, it looks like you are inside of the site.</description>
+		<agency>Agency: M9S</agency>
+		<client>Client: Cream</client>
+		<launch></launch>
+		<images>
+			<thumbnails>
+				<sephia>
+					<thumbnail>assets/image/thumbnail/sephia/8.jpg</thumbnail>
+				</sephia>
+				<colored>
+					<thumbnail>assets/image/thumbnail/colored/8.jpg</thumbnail>
+				</colored>
+			</thumbnails>
+			<big>
+				<colored>assets/image/big/cream/cream/1.jpg</colored>
+			</big>
+			<reel></reel>
+			<makingof></makingof>
+		</images>
+	</register>
+    
+    
+    
+    
+	<!-- Diogo Portugal -->
+	<register pageTitle="diogoportugal">
+		<title>Diogo Portugal</title>
+		<description>Diogo Portugal is a stand-up comedian that makes everyone laugh. Bellow you can check it out. </description>
+		<agency>Agency: Tif</agency>
+		<client>Client: Diogo Portugal</client>
+		<launch><a href="http://www.diogoportugal.com.br/home.html" target="_blank">Launch: http://www.diogoportugal.com.br/home.html</a></launch>
+		<images>
+			<thumbnails>
+				<sephia>
+					<thumbnail>assets/image/thumbnail/sephia/9.jpg</thumbnail>
+				</sephia>
+				<colored>
+					<thumbnail>assets/image/thumbnail/colored/9.jpg</thumbnail>
+				</colored>
+			</thumbnails>
+			<big>
+				<colored>assets/image/big/diogoportugal/diogoportugal/1.jpg</colored>
+			</big>
+			<reel></reel>
+			<makingof></makingof>
+		</images>
+	</register>
+    
+    
+    
+    
+	<!-- Lacta -->
+	<register pageTitle="lacta">
+		<title>Lacta</title>
+		<description>Lacta is a brand of Kraft foods that works with chocolates. This site shows the institutional Easter eggs.</description>
+		<agency>Agency: Midiaweb</agency>
+		<client>Client: Kraft Foods</client>
+		<launch></launch>
+		<images>
+			<thumbnails>
+				<sephia>
+					<thumbnail>assets/image/thumbnail/sephia/10.jpg</thumbnail>
+				</sephia>
+				<colored>
+					<thumbnail>assets/image/thumbnail/colored/10.jpg</thumbnail>
+				</colored>
+			</thumbnails>
+			<big>
+				<colored>assets/image/big/kraftfoods/lacta/1.jpg</colored>
+			</big>
+			<reel></reel>
+			<makingof></makingof>
+		</images>
+	</register>
+    
+    
+	<!-- Mackenzie -->
+	<register  pageTitle="mackenzie">
+		<title>Desafio Mackenzie</title>
+		<description>Developed to Chleba, is a site integrated with google maps API, where the user can answer the question to compete a tickets to Ireland just for study.</description>
+		<agency>Agency: Chleba</agency>
+		<client>Client: Mackenzie</client>
+		<launch></launch>
+		<images>
+			<thumbnails>
+				<sephia>
+					<thumbnail>assets/image/thumbnail/sephia/11.jpg</thumbnail>
+				</sephia>
+				<colored>
+					<thumbnail>assets/image/thumbnail/colored/11.jpg</thumbnail>
+				</colored>
+			</thumbnails>
+			<big>
+				<colored>assets/image/big/mackenzie/desafiomackenzei/1.jpg</colored>
+			</big>
+			<reel></reel>
+			<makingof></makingof>
+		</images>
+	</register>
+    
+    
+    
+	<!-- Unimed -->
+	<register  pageTitle="unimed">
+		<title>Dr Rached</title>
+		<description></description>
+		<agency>Agency: JWT</agency>
+		<client>Client: Unimed</client>
+		<launch></launch>
+		<images>
+			<thumbnails>
+				<sephia>
+					<thumbnail>assets/image/thumbnail/sephia/12.jpg</thumbnail>
+				</sephia>
+				<colored>
+					<thumbnail>assets/image/thumbnail/colored/12.jpg</thumbnail>
+				</colored>
+			</thumbnails>
+			<big>
+				<colored>assets/image/big/unimed/drrached/1.jpg</colored>
+			</big>
+			<reel></reel>
+			<makingof></makingof>
+		</images>
+	</register>
+    
+    
+    
+    
+	<!-- Center Norte -->
+	<register  pageTitle="centernorte">
+		<title>Christmas Center Norte</title>
+		<description></description>
+		<agency>Agency: M9S</agency>
+		<client>Client: Center Norte</client>
+		<launch></launch>
+		<images>
+			<thumbnails>
+				<sephia>
+					<thumbnail>assets/image/thumbnail/sephia/13.jpg</thumbnail>
+				</sephia>
+				<colored>
+					<thumbnail>assets/image/thumbnail/colored/13.jpg</thumbnail>
+				</colored>
+			</thumbnails>
+			<big>
+				<colored>assets/image/big/centernorte/christmas/1.jpg</colored>
+			</big>
+			<reel></reel>
+			<makingof></makingof>
+		</images>
+	</register>
+    
+    
+    
+	<!-- Confidence -->
+	<register  pageTitle="confidence">
+		<title>Personal Dollar Bill Confidence</title>
+		<description></description>
+		<agency>Agency: Tif</agency>
+		<client>Client: Confidence</client>
+		<launch></launch>
+		<images>
+			<thumbnails>
+				<sephia>
+					<thumbnail>assets/image/thumbnail/sephia/14.jpg</thumbnail>
+				</sephia>
+				<colored>
+					<thumbnail>assets/image/thumbnail/colored/14.jpg</thumbnail>
+				</colored>
+			</thumbnails>
+			<big>
+				<colored>assets/image/big/confidence/dollarbill/1.jpg</colored>
+			</big>
+			<reel></reel>
+			<makingof></makingof>
+		</images>
+	</register>
+</data>

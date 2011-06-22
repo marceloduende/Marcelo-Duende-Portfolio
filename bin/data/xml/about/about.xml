@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data>
+	<image src="data/img/about/aboutPict.jpg" />
+	<register>
+		<title cssClass="inner_title"><![CDATA[About]]></title>
+		<copy cssClass="inner_desc"><![CDATA[My name is Marcelo Santos professionally known as Marcelo Duende, I’m excelling the function of creative flash developer that encompasses flash, air, mobile apps and games (AIR for iPhone and Android). Also I have knowledge in Unity 3D, C++, HTML, CSS.
+
+My last experiment was using the Microsoft® Kinect®, I have hacked the device to create a interactive drum game, where you can play with your hands. To see it in action, please take a look here. http://vimeo.com/17907511
+
+Currently I’m working at Syrup in New York - USA. ]]></copy>
+	</register>
+	<register>
+		<title cssClass="inner_title"><![CDATA[Contact]]></title>
+		<copy cssClass="inner_desc"><![CDATA[To get in touch, just send me an email, would be a pleasure to reply you.
+
+marcelo.duende@gmail.com or marcelo@marceloduende.com.br]]></copy>
+	</register>
+</data>

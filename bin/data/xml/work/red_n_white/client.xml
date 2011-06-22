@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data>
+	<title cssClass="inner_title"><![CDATA[Puma - Red'n'White]]></title>
+	<copy cssClass="inner_desc"><![CDATA[A website integrated with server side data. This website allowed the user to find a date in a super interactive way. You could create your account, share your data, and as the fragrances started to get closer, similar profiles were popping up on the screen until the most similar appeared. I worked as the Lead Flash Developer and I also managed the .NET guys.]]></copy>
+	<agency cssClass="inner_desc"><![CDATA[Agency: Chleba]]></agency>
+	<client cssClass="inner_desc"><![CDATA[Client: Puma]]></client>
+	<link cssClass="inner_desc"><![CDATA[]]></link>
+	<seeMore cssClass="inner_desc"><![CDATA[To see more, you can use the keyboard arrows.]]></seeMore>
+	
+	
+	<register cssClass="image_menu" type="photo" url="data/img/work/image/big/puma/red_white/1.jpg"><![CDATA[1]]></register>
+	<register cssClass="image_menu" type="photo" url="data/img/work/image/big/puma/red_white/2.jpg"><![CDATA[2]]></register>
+	<register cssClass="image_menu" type="photo" url="data/img/work/image/big/puma/red_white/3.jpg"><![CDATA[3]]></register>
+	<register cssClass="image_menu" type="photo" url="data/img/work/image/big/puma/red_white/4.jpg"><![CDATA[4]]></register>
+	<register cssClass="image_menu" type="photo" url="data/img/work/image/big/puma/red_white/5.jpg"><![CDATA[5]]></register>
+	<register cssClass="image_menu" type="photo" url="data/img/work/image/big/puma/red_white/6.jpg"><![CDATA[6]]></register>
+	<register cssClass="image_menu" type="photo" url="data/img/work/image/big/puma/red_white/7.jpg"><![CDATA[7]]></register>
+</data>

@@ -1,0 +1,112 @@
+/*
+This is the css file to control the fonts of the Flash application.
+As you know, the Flash doesn't suport all the css styles, althought it suports a bunch of tags as:
+
+color;
+font-family; - you can also use flash embeded font names here.
+font-size;
+letter-spacing;
+line-height;
+text-decoration;
+*/
+
+.menu_style{
+	font-family:Avenir LT Std 65 Medium;
+	font-size: 24px;
+	color:#9b2500;
+}
+.bottom_copy{
+    font-family:Avenir LT Std 65 Medium;
+	font-size: 24px;
+	color:#000000;
+}
+.bottom_menu{
+    font-family:Avenir LT Std 65 Medium;
+	font-size: 14px;
+	color:#000000;
+}
+
+
+/*  home  */
+
+.title {
+	font-family:Avenir LT Std 35 Light;
+	font-size:30px;
+	color:#000000;
+}
+
+.description {
+	font-family:Avenir LT Std 35 Light;
+	font-size:14px;
+	color:#000000;
+	text-align:left;
+	line-height:80;
+}
+
+.thumb_title {
+	font-family:Avenir LT Std 35 Light;
+	font-size:18px;
+	color:#000000;
+}
+
+/*  Work  */
+
+.thumb_work_title{
+	font-family:Avenir LT Std 65 Medium;
+	font-size:18px;
+	color:#FFFFFF;
+}
+
+.thumb_work_body{
+	font-family:Avenir LT Std 65 Medium;
+	font-size:16px;
+	color:#FFFFFF;
+}
+
+.back_button{
+	font-family:Avenir LT Std 65 Medium;
+	font-size:12px;
+	color:#9b2500;
+}
+
+
+/*  Error Page  */
+
+.error_title {
+    font-family:Avenir LT Std 65 Medium;
+	font-size:40px;
+	color:#000000;
+}
+
+.error_body_page {
+    font-family:Avenir LT Std 35 Light;
+	font-size:14px;
+	color:#000000;
+}
+
+/*  Inner Work  */
+
+
+.image_menu {
+	font-family:Avenir LT Std 35 Light;
+	font-size:16px;
+	color:#000000;
+}
+
+.inner_title {
+    font-family:Avenir LT Std 35 Light;
+	font-size:30px;
+	color:#000000;
+}
+
+.inner_desc {
+    font-family:Avenir LT Std 35 Light;
+	font-size:14px;
+	color:#000000;
+}
+
+.close_button {
+    font-family:Avenir LT Std 65 Medium;
+	font-size:14px;
+	color:#FFFFFF;
+}

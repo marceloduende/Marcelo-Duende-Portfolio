@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data>
+	<title cssClass="inner_title"><![CDATA[Diogo Portugal]]></title>
+	<copy cssClass="inner_desc"><![CDATA[Diogo is a well-known Brazilian actor, humorist and critic. I had the pleasure to work in this project where the Alopratoons made all the incredible illustrations. I was the Lead Flash Developer.]]></copy>
+	<agency cssClass="inner_desc"><![CDATA[Agency: Tif]]></agency>
+	<client cssClass="inner_desc"><![CDATA[Client: Diogo Portugal]]></client>
+	<link cssClass="inner_desc"><![CDATA[Launch: http://diogoportugal.com.br/home.html]]></link>
+	<seeMore cssClass="inner_desc"><![CDATA[To see more, you can use the keyboard arrows.]]></seeMore>
+	
+	
+	<register cssClass="image_menu" type="photo" url="data/img/work/image/big/diogo_portugal/1.jpg"><![CDATA[1]]></register>
+	<register cssClass="image_menu" type="photo" url="data/img/work/image/big/diogo_portugal/2.jpg"><![CDATA[2]]></register>
+	<register cssClass="image_menu" type="photo" url="data/img/work/image/big/diogo_portugal/3.jpg"><![CDATA[3]]></register>
+	<register cssClass="image_menu" type="photo" url="data/img/work/image/big/diogo_portugal/4.jpg"><![CDATA[4]]></register>
+	<register cssClass="image_menu" type="photo" url="data/img/work/image/big/diogo_portugal/5.jpg"><![CDATA[5]]></register>
+	<register cssClass="image_menu" type="photo" url="data/img/work/image/big/diogo_portugal/6.jpg"><![CDATA[6]]></register>
+	<register cssClass="image_menu" type="photo" url="data/img/work/image/big/diogo_portugal/7.jpg"><![CDATA[7]]></register>
+	<register cssClass="image_menu" type="photo" url="data/img/work/image/big/diogo_portugal/8.jpg"><![CDATA[8]]></register>
+	<register cssClass="image_menu" type="photo" url="data/img/work/image/big/diogo_portugal/9.jpg"><![CDATA[9]]></register>
+	<register cssClass="image_menu" type="photo" url="data/img/work/image/big/diogo_portugal/10.jpg"><![CDATA[10]]></register>
+	<register cssClass="image_menu" type="photo" url="data/img/work/image/big/diogo_portugal/11.jpg"><![CDATA[11]]></register>
+    <register cssClass="image_menu" type="photo" url="data/img/work/image/big/diogo_portugal/12.jpg"><![CDATA[12]]></register>
+</data>

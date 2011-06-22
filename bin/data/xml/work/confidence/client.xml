@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data>
+	<title  cssClass="inner_title"><![CDATA[Make your money]]></title>
+	<copy cssClass="inner_desc"><![CDATA[Confidence, a Brazilian exchange brand, has created a way to see its clients by creating their own dollar bills. The app gave the power needed to upload a photo and adjust it to make a perfect customized bill. I was the lead developer in this work.]]></copy>
+	<agency cssClass="inner_desc"><![CDATA[Agency: Tif]]></agency>
+	<client cssClass="inner_desc"><![CDATA[Client: Confidense]]></client>
+	<link cssClass="inner_desc"><![CDATA[]]></link>
+	<seeMore cssClass="inner_desc"><![CDATA[To see more, you can use the keyboard arrows.]]></seeMore>
+	
+	
+	<register cssClass="image_menu" type="photo" url="data/img/work/image/big/confidence/1.jpg"><![CDATA[1]]></register>
+	<register cssClass="image_menu" type="photo" url="data/img/work/image/big/confidence/2.jpg"><![CDATA[2]]></register>
+	<register cssClass="image_menu" type="photo" url="data/img/work/image/big/confidence/3.jpg"><![CDATA[3]]></register>
+	<register cssClass="image_menu" type="photo" url="data/img/work/image/big/confidence/4.jpg"><![CDATA[4]]></register>
+	<register cssClass="image_menu" type="photo" url="data/img/work/image/big/confidence/5.jpg"><![CDATA[5]]></register>
+	<register cssClass="image_menu" type="photo" url="data/img/work/image/big/confidence/6.jpg"><![CDATA[6]]></register>
+	<register cssClass="image_menu" type="photo" url="data/img/work/image/big/confidence/7.jpg"><![CDATA[7]]></register>
+    <register cssClass="image_menu" type="photo" url="data/img/work/image/big/confidence/8.jpg"><![CDATA[8]]></register>
+</data>

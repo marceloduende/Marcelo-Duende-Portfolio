@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data>
+	<!-- Puma Museum -->
+	<register pageTitle="home">
+		<title cssClass="title"><![CDATA[Museum of Power]]></title>
+		<description cssClass="description"><![CDATA[This is no ordinary show. It is a public display of what might potentially happen when you have a bold, true, occasionally reckless - yet always pure - love for the game.Welcome to the exhibition of Power.
+
+In this role me and Alfred Kang were worked our asses to delivery in time. It was about one week, we developed bold and serious algorithms fast. Went a pleasure to worked on.
+
+Thanks Puma, thanks Syrup]]></description>
+		<agency><![CDATA[Agency: Syrup New York]]></agency>
+		<client><![CDATA[Client: Puma Football]]></client>
+		<image>data/img/home/1.jpg</image>
+        <thumbnail cssClass="thumb_title">data/img/work/image/thumbnail/sephia/1.jpg</thumbnail>
+		<seeMore>+ See more</seeMore>
+		<href>museum_of_power</href>
+	</register>
+    
+    
+    
+	<!-- Puma African cup of nations -->
+	<register pageTitle="home" cssClass="title">
+		<title cssClass="title"><![CDATA[African Cup of Nations]]></title>
+		<description cssClass="description"><![CDATA[Ola fellow football aficionado - welcome to Angola - heart of african football during the cup, the four tournament cities are like a big buffet of joy and football to enjoy, consume and explore - This is for you. 
+		
+This role was my first work to New York and definitely was a proof what I am capable to do in short time, it does took my xmas, new year eve and some more days. Whatever, the final results was awesome]]></description>
+		<agency>Agency: Syrup New York</agency>
+		<!--<client><a href="http://www.pumafootball.com/can" targe="_blank">Client: Puma Football</a></client>-->
+        <client>Client: Puma Football</client>
+		<image>data/img/home/2.jpg</image>
+        <thumbnail cssClass="thumb_title">data/img/work/image/thumbnail/sephia/2.jpg</thumbnail>
+        <seeMore>+ See more</seeMore>
+		<href>can</href>
+	</register>
+    
+    
+    
+	<!-- Smirnoff Black -->
+	<register pageTitle="home" cssClass="title">
+		<title cssClass="title"><![CDATA[Smirnoff Black]]></title>
+		<description cssClass="description"><![CDATA[Smirnoff is a vodka brand created by Piotr Arsenieyevich Smirnov. Currently owned by conglomerate Diageo. Smirnoff, has the name of "Смирновская Водка", translated it means Smirnovskaya vodka.
+		
+I developed this project long time ago and until nowadays it represent much than past for me. It took me to another level of programation, flash and commitment in work.]]></description>
+		<agency><![CDATA[Agency: Chleba + Wunderman]]></agency>
+		<!--<client><a href="http://www.smblack.com.br" targe="_blank">Client: Smirnoff Black</a></client>-->
+        <client><![CDATA[Client: Smirnoff Black]]></client>
+        <image>data/img/home/3.jpg</image>
+        <thumbnail cssClass="thumb_title">data/img/work/image/thumbnail/sephia/3.jpg</thumbnail>
+        <href>smirnoff_black</href>
+	</register>
+</data>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data>
+	<title cssClass="inner_title"><![CDATA[Orange Cup of Africa]]></title>
+	<copy cssClass="inner_desc"><![CDATA[Orange Cup of Africa 
+
+Hello soccer fan! Welcome to Angola - the heart of african soccer during the Cup. The four tournament cities are like a big buffet of joy and soccer to enjoy, consume and explore - This is for you. Enjoy!]]></copy>
+	<agency cssClass="inner_desc"><![CDATA[Agency: Syrup New York]]></agency>
+	<client cssClass="inner_desc"><![CDATA[Client: Puma Football]]></client>
+	<link cssClass="inner_desc"><![CDATA[]]></link>
+	<seeMore cssClass="inner_desc"><![CDATA[To see more, you can use the keyboard arrows.]]></seeMore>
+	
+	
+	<register cssClass="image_menu" type="photo" url="data/img/work/image/big/puma/can/1.jpg"><![CDATA[1]]></register>
+	<register cssClass="image_menu" type="photo" url="data/img/work/image/big/puma/can/2.jpg"><![CDATA[2]]></register>
+	<register cssClass="image_menu" type="photo" url="data/img/work/image/big/puma/can/3.jpg"><![CDATA[3]]></register>
+	<register cssClass="image_menu" type="photo" url="data/img/work/image/big/puma/can/4.jpg"><![CDATA[4]]></register>
+	<register cssClass="image_menu" type="photo" url="data/img/work/image/big/puma/can/5.jpg"><![CDATA[5]]></register>
+	<register cssClass="image_menu" type="photo" url="data/img/work/image/big/puma/can/6.jpg"><![CDATA[6]]></register>
+	<register cssClass="image_menu" type="photo" url="data/img/work/image/big/puma/can/7.jpg"><![CDATA[7]]></register>
+    <register cssClass="image_menu" type="video" url="data/img/work/video/puma/can/1.f4v"><![CDATA[reel]]></register>
+</data>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data>
+	<title cssClass="inner_title"><![CDATA[Marc Jacobs Bang]]></title>
+	<copy cssClass="inner_desc"><![CDATA[Bang yourself! That was the proposal of the website that was mostly created by Ben Dubzia. I had to change almost the entire website and it was a great experience. Also, it was my first work in NYC. ]]></copy>
+	<agency cssClass="inner_desc"><![CDATA[Agency: Syrup New York]]></agency>
+	<client cssClass="inner_desc"><![CDATA[Client: Marc Jacobs]]></client>
+	<link cssClass="inner_desc"><![CDATA[Launch: www.marcjabcobsbang.com]]></link>
+	<seeMore cssClass="inner_desc"><![CDATA[To see more, you can use the keyboard arrows.]]></seeMore>
+	
+	
+	<register cssClass="image_menu" type="photo" url="data/img/work/image/big/marc_jacobs_bang/1.jpg"><![CDATA[1]]></register>
+	<register cssClass="image_menu" type="photo" url="data/img/work/image/big/marc_jacobs_bang/2.jpg"><![CDATA[2]]></register>
+	<register cssClass="image_menu" type="photo" url="data/img/work/image/big/marc_jacobs_bang/3.jpg"><![CDATA[3]]></register>
+	<register cssClass="image_menu" type="photo" url="data/img/work/image/big/marc_jacobs_bang/4.jpg"><![CDATA[4]]></register>
+	<register cssClass="image_menu" type="photo" url="data/img/work/image/big/marc_jacobs_bang/5.jpg"><![CDATA[5]]></register>
+    <register cssClass="image_menu" type="photo" url="data/img/work/image/big/marc_jacobs_bang/6.jpg"><![CDATA[6]]></register>
+</data>

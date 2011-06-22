@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data>
+	<title cssClass="inner_title"><![CDATA[Puma - Create]]></title>
+	<copy cssClass="inner_desc"><![CDATA[A real fun website integrated with server side data. This website permitted the user to leave scraps in live showing their idea about the fragrance. Also, it permitted the user to draw in a customized wall with sprays and crayons. I managed the .NET guys and I was the Lead Flash Developer.]]></copy>
+	<agency cssClass="inner_desc"><![CDATA[Agency: Chleba]]></agency>
+	<client cssClass="inner_desc"><![CDATA[Client: Puma]]></client>
+	<link cssClass="inner_desc"><![CDATA[]]></link>
+	<seeMore cssClass="inner_desc"><![CDATA[To see more, you can use the keyboard arrows.]]></seeMore>
+	
+	
+	<register cssClass="image_menu" type="photo" url="data/img/work/image/big/puma/create/1.jpg"><![CDATA[1]]></register>
+	<register cssClass="image_menu" type="photo" url="data/img/work/image/big/puma/create/2.jpg"><![CDATA[2]]></register>
+	<register cssClass="image_menu" type="photo" url="data/img/work/image/big/puma/create/3.jpg"><![CDATA[3]]></register>
+	<register cssClass="image_menu" type="photo" url="data/img/work/image/big/puma/create/4.jpg"><![CDATA[4]]></register>
+	<register cssClass="image_menu" type="photo" url="data/img/work/image/big/puma/create/5.jpg"><![CDATA[5]]></register>
+	<register cssClass="image_menu" type="photo" url="data/img/work/image/big/puma/create/6.jpg"><![CDATA[6]]></register>
+	<register cssClass="image_menu" type="photo" url="data/img/work/image/big/puma/create/7.jpg"><![CDATA[7]]></register>
+</data>

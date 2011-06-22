@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data>
+	<title cssClass="inner_title"><![CDATA[Museum of Power]]></title>
+	<copy cssClass="inner_desc"><![CDATA[This is no ordinary show. It is a public display of what might potentially happen when you have a true, occasionally reckless - but always pure - love for the game. Welcome to the exhibition of Power.
+
+In this role, me and Alfred Kang worked our asses to deliver the project on time. In just one week we developed bold and serious algorithms very fast. It was a pleasure to work in this project. 
+
+Thanks Puma. Thanks Syrup.
+
+Awards: Cyber Lion Cannes - Bronze,
+IMA - Best in Class,
+One Show - Merit ]]></copy>
+	<agency cssClass="inner_desc"><![CDATA[Agency: Syrup New York]]></agency>
+	<client cssClass="inner_desc"><![CDATA[Client: Puma Football]]></client>
+	<link cssClass="inner_desc"><![CDATA[Launch: www.pumafootball.com/museum]]></link>
+	<seeMore cssClass="inner_desc"><![CDATA[To see more, you can use the keyboard arrows.]]></seeMore>
+	
+	
+	<register cssClass="image_menu" type="photo" url="data/img/work/image/big/puma/museum/1.jpg"><![CDATA[1]]></register>
+	<register cssClass="image_menu" type="photo" url="data/img/work/image/big/puma/museum/2.jpg"><![CDATA[2]]></register>
+	<register cssClass="image_menu" type="photo" url="data/img/work/image/big/puma/museum/3.jpg"><![CDATA[3]]></register>
+	<register cssClass="image_menu" type="photo" url="data/img/work/image/big/puma/museum/4.jpg"><![CDATA[4]]></register>
+	<register cssClass="image_menu" type="photo" url="data/img/work/image/big/puma/museum/5.jpg"><![CDATA[5]]></register>
+	<register cssClass="image_menu" type="photo" url="data/img/work/image/big/puma/museum/6.jpg"><![CDATA[6]]></register>
+	<register cssClass="image_menu" type="photo" url="data/img/work/image/big/puma/museum/7.jpg"><![CDATA[7]]></register>
+	<register cssClass="image_menu" type="photo" url="data/img/work/image/big/puma/museum/8.jpg"><![CDATA[8]]></register>
+	<register cssClass="image_menu" type="photo" url="data/img/work/image/big/puma/museum/9.jpg"><![CDATA[9]]></register>
+	<register cssClass="image_menu" type="photo" url="data/img/work/image/big/puma/museum/10.jpg"><![CDATA[10]]></register>
+	<register cssClass="image_menu" type="photo" url="data/img/work/image/big/puma/museum/11.jpg"><![CDATA[11]]></register>
+	<register cssClass="image_menu" type="video" url="data/img/work/video/puma/museum/1.f4v"><![CDATA[reel]]></register>
+</data>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data>
+	<title cssClass="inner_title"><![CDATA[Center Norte / M9S]]></title>
+	<copy cssClass="inner_desc"><![CDATA[Center Norte, a shopping mall, wanted to create a new campaign for Christmans integrated with the internet. So we created an youtube app with all the uploaded videos. I was the Flash Developer in this project.]]></copy>
+	<agency cssClass="inner_desc"><![CDATA[Agency: M9S]]></agency>
+	<client cssClass="inner_desc"><![CDATA[Client: Center Norte]]></client>
+	<link cssClass="inner_desc"><![CDATA[Client: Center Norte]]></link>
+	<seeMore cssClass="inner_desc">T<![CDATA[o see more, you can use the keyboard arrows.]]></seeMore>
+	
+	
+	<register cssClass="image_menu" type="photo" url="data/img/work/image/big/center_norte/1.jpg"><![CDATA[1]]></register>
+	<register cssClass="image_menu" type="photo" url="data/img/work/image/big/center_norte/2.jpg"><![CDATA[2]]></register>
+	<register cssClass="image_menu" type="photo" url="data/img/work/image/big/center_norte/3.jpg"><![CDATA[3]]></register>
+	<register cssClass="image_menu" type="photo" url="data/img/work/image/big/center_norte/4.jpg"><![CDATA[4]]></register>
+	<register cssClass="image_menu" type="photo" url="data/img/work/image/big/center_norte/5.jpg"><![CDATA[5]]></register>
+	<register cssClass="image_menu" type="photo" url="data/img/work/image/big/center_norte/6.jpg"><![CDATA[6]]></register>
+	<register cssClass="image_menu" type="photo" url="data/img/work/image/big/center_norte/7.jpg"><![CDATA[7]]></register>
+</data>

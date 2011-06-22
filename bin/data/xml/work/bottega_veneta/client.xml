@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data>
+	<title cssClass="inner_title"><![CDATA[Bottega Veneta]]></title>
+	<copy cssClass="inner_desc"><![CDATA[Bottega Veneta is an Italian luxury fashion goods house best known for its leather goods. Founded in 1966, it was purchased in 2001 by Gucci Group, now a part of the French multinational group PPR. Bottega Veneta is headquartered in Vicenza, in the Veneto region of northeastern Italy.]]></copy>
+	<agency cssClass="inner_desc"><![CDATA[Agency: Syrup New York]]></agency>
+	<client cssClass="inner_desc"><![CDATA[Client: Bottega Veneta]]></client>
+	<link cssClass="inner_desc"><![CDATA[Launch: www.bottegaveneta.com]]></link>
+	<seeMore cssClass="inner_desc"><![CDATA[To see more, you can use the keyboard arrows.]]></seeMore>
+	
+	
+	<register cssClass="image_menu" type="photo" url="data/img/work/image/big/bottega/1.jpg"><![CDATA[1]]></register>
+	<register cssClass="image_menu" type="photo" url="data/img/work/image/big/bottega/2.jpg"><![CDATA[2]]></register>
+	<register cssClass="image_menu" type="photo" url="data/img/work/image/big/bottega/3.jpg"><![CDATA[3]]></register>
+	<register cssClass="image_menu" type="photo" url="data/img/work/image/big/bottega/4.jpg"><![CDATA[4]]></register>
+	<register cssClass="image_menu" type="photo" url="data/img/work/image/big/bottega/5.jpg"><![CDATA[5]]></register>
+	<register cssClass="image_menu" type="photo" url="data/img/work/image/big/bottega/6.jpg"><![CDATA[6]]></register>
+	<register cssClass="image_menu" type="photo" url="data/img/work/image/big/bottega/7.jpg"><![CDATA[7]]></register>
+	<register cssClass="image_menu" type="photo" url="data/img/work/image/big/bottega/8.jpg"><![CDATA[8]]></register>
+	<register cssClass="image_menu" type="photo" url="data/img/work/image/big/bottega/9.jpg"><![CDATA[9]]></register>
+</data>

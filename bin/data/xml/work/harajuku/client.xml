@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data>
+	<title cssClass="inner_title"><![CDATA[Harajuku]]></title>
+	<copy cssClass="inner_desc"><![CDATA[Harajuku is an energetic brand for kids. In it's website you can create and customize your own doll and share it over the internet. Besides, the website shows all the five different fragrance bottles. I was a flash developer together with Keita Kuroki, that was the major flash developer of this project.]]></copy>
+	<agency cssClass="inner_desc"><![CDATA[Agency: Syrup New York]]></agency>
+	<client cssClass="inner_desc"><![CDATA[Client: Harajuku]]></client>
+	<link cssClass="inner_desc"><![CDATA[Launch: www.hlfragrance.com]]></link>
+	<seeMore cssClass="inner_desc"><![CDATA[To see more, you can use the keyboard arrows.]]></seeMore>
+	
+	
+	<register cssClass="image_menu" type="photo" url="data/img/work/image/big/harajuku/1.jpg"><![CDATA[1]]></register>
+	<register cssClass="image_menu" type="photo" url="data/img/work/image/big/harajuku/2.jpg"><![CDATA[2]]></register>
+	<register cssClass="image_menu" type="photo" url="data/img/work/image/big/harajuku/3.jpg"><![CDATA[3]]></register>
+	<register cssClass="image_menu" type="photo" url="data/img/work/image/big/harajuku/4.jpg"><![CDATA[4]]></register>
+	<register cssClass="image_menu" type="photo" url="data/img/work/image/big/harajuku/5.jpg"><![CDATA[5]]></register>
+	<register cssClass="image_menu" type="photo" url="data/img/work/image/big/harajuku/6.jpg"><![CDATA[6]]></register>
+	<register cssClass="image_menu" type="photo" url="data/img/work/image/big/harajuku/7.jpg"><![CDATA[7]]></register>
+    <register cssClass="image_menu" type="video" url="data/img/work/video/harajuku/Harajuku.f4v"><![CDATA[reel]]></register>
+</data>
